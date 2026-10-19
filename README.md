@@ -1,11 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="NorseBit: software for the web and for Linux" src="assets/banner-dark.svg" width="100%">
+  <img alt="NorseBit: software for the web and for Linux" src="banner-dark.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://norsebit.com"><img alt="Website" src="https://img.shields.io/badge/norsebit.com-0B1222?style=for-the-badge&logo=googlechrome&logoColor=2E9BFF"></a>
+  <a href="https://norsebit.com"><img alt="Website" src="https://img.shields.io/badge/norsebit.com-0B1222?style=for-the-badge&logo=dotnet&logoColor=2E9BFF"></a>
   <a href="https://www.linkedin.com/in/sebastian-noren-softdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B1222?style=for-the-badge&logo=linkedin&logoColor=2E9BFF"></a>
   <a href="https://ragetech.se"><img alt="Ragetech" src="https://img.shields.io/badge/ragetech.se-0B1222?style=for-the-badge&logo=rust&logoColor=F2541B"></a>
 </p>
@@ -28,11 +26,11 @@ let norsebit = Developer {
 
 **Linux & systems**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,nginx,git,githubactions&theme=dark" alt="Rust, Linux, Bash, Docker, nginx, Git, GitHub Actions"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,nginx,redis,git&theme=dark" alt="Rust, Linux, Bash, Docker, nginx, redis, Git"></a>
 
 **Where it started**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=java,androidstudio,c&theme=dark" alt="java, androidstudio, C"></a>
 
 ### Now in the forge
 
