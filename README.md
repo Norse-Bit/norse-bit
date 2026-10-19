@@ -1,5 +1,5 @@
 <picture>
-  <img alt="NorseBit: software for the web and for Linux" src="banner-dark.svg" width="100%">
+  <img alt="NorseBit: software for the web and for Linux" src="banner-dark.webp" width="100%">
 </picture>
 
 <p align="center">
