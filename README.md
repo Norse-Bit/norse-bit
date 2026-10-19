@@ -1,16 +1,53 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="NorseBit: software for the web and for Linux" src="assets/banner-dark.svg" width="100%">
+</picture>
 
-<!--
-**Norse-Bit/norse-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://norsebit.com"><img alt="Website" src="https://img.shields.io/badge/norsebit.com-0B1222?style=for-the-badge&logo=googlechrome&logoColor=2E9BFF"></a>
+  <a href="https://www.linkedin.com/in/sebastian-noren-softdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B1222?style=for-the-badge&logo=linkedin&logoColor=2E9BFF"></a>
+  <a href="https://ragetech.se"><img alt="Ragetech" src="https://img.shields.io/badge/ragetech.se-0B1222?style=for-the-badge&logo=rust&logoColor=F2541B"></a>
+</p>
 
-Here are some ideas to get you started:
+```rust
+let norsebit = Developer {
+    based_in:  "Sweden",
+    day_job:   "Fullstack .NET developer",
+    after_dark: "Small native Linux apps in Rust",
+    building:  "Sorted — swipe-to-cull photo sorter",
+    believes:  ["no telemetry", "no accounts", "one job per app"],
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools of the trade
+
+**Web**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet,ts,html,css,postgres,azure&theme=dark" alt="C#, .NET, TypeScript, HTML, CSS, PostgreSQL, Azure"></a>
+
+**Linux & systems**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=rust,linux,bash,docker,nginx,git,githubactions&theme=dark" alt="Rust, Linux, Bash, Docker, nginx, Git, GitHub Actions"></a>
+
+**Where it started**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++"></a>
+
+### Now in the forge
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| **[Sorted](https://github.com/norse-bit/sorted)** | Cull hundreds of photos in minutes. Swipe right to keep, left to reject. | `in development` |
+| **[Ragetech forge](https://github.com/ragetech-forge)** | Self-hosted services and experiments on my own VPS. | `running` |
+
+<details>
+<summary><b>Why "NorseBit"?</b></summary>
+<br>
+
+**Norse** — from Sweden. **Bit** — the smallest piece of anything digital.
+Read it another way, **Nor·Seb·IT**, and it's also my name and my trade.
+
+</details>
+
+<p align="center"><sub>Built in Sweden · Apps released under <a href="https://github.com/ragetech-forge">ragetech-forge</a></sub></p>
