@@ -40,7 +40,7 @@ let norsebit = Developer {
 | **[Ragetech forge](https://github.com/ragetech-forge)** | Self-hosted services and experiments on my own VPS. | `running` |
 
 <details>
-<summary><b>Why "NorseBit"?</b></summary>
+<summary><b>Why "Norsebit"?</b></summary>
 <br>
 
 **Norse** — from Sweden. **Bit** — the smallest piece of anything digital.
