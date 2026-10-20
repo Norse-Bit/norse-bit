@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://norsebit.com"><img alt="Website" src="https://img.shields.io/badge/norsebit.com-0B1222?style=for-the-badge&logo=dotnet&logoColor=2E9BFF"></a>
-  <a href="www.linkedin.com/in/sebnoren/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B1222?style=for-the-badge&logo=linkedin&logoColor=2E9BFF"></a>
+  <a href="https://linkedin.com/in/sebnoren/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B1222?style=for-the-badge&logo=linkedin&logoColor=2E9BFF"></a>
   <a href="https://ragetech.se"><img alt="Ragetech" src="https://img.shields.io/badge/ragetech.se-0B1222?style=for-the-badge&logo=rust&logoColor=F2541B"></a>
 </p>
 
